@@ -1,4 +1,4 @@
-# Super Awesome Vertical Timeline
+# A Fork of WNYC/Balance Media's Super Awesome Vertical Timeline
 
 **Timeline** shows a series of events in a vertically time-sorted structure.
 
